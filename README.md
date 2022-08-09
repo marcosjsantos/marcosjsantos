@@ -27,8 +27,11 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 
 <p>
   <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
+  <img src="http://doc.sikuli.org/_static/ide-icon-64.png" height="20" width="20"/>
   <img src=https://img.shields.io/badge/-Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height="20" width="20"/>
   <img src=https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="20" width="20"/>
   <img src=https://img.shields.io/badge/-Cucumber%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
   <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
