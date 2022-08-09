@@ -1,18 +1,3 @@
-<!--
-**marcosjsantos/marcosjsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Salve, sou Marcos José Borges dos Santos   -  ![GitHub followers](https://img.shields.io/github/followers/marcosjsantos?style=social)
 Analista de Qualidade de Software na Stefanini 🐞💼
 
@@ -43,8 +28,6 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 <p>
   <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
   <img src=https://img.shields.io/badge/-Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
-  <img src=https://img.shields.io/badge/-K6%20-%23525252.svg?style=flat&logo=k6&logoColor=purple&>
-  <img src=https://img.shields.io/badge/-Jmeter%20-%23525252.svg?style=flat&logo=jmeter&logoColor=red&>
   <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
 
@@ -59,9 +42,9 @@ Analista de Qualidade de Software na Stefanini 🐞💼
  
  ##
 <div align="center">
-  <a href="https://github.com/jessicaespindola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaespindola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaespindola&layout=compact&langs_count=7&theme=dark"/>
+  <a https://github.com/marcosjsantos/marcosjsantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjsantos&layout=compact&langs_count=10&theme=dark"/>
 </div> 
 
 ##
