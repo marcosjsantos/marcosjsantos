@@ -67,4 +67,4 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 - 1ª Temporada do QA Week 2022
 - 2ª Temporada do QA Week 2022
 
-![Snake animation](https://github.com/seu-usuário-aqui/marcosjsantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcosjsantos/marcosjsantos/blob/output/github-contribution-grid-snake.svg)
