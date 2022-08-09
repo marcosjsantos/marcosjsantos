@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Salve, sou Marcos José Borges dos Santos
 Analista de Qualidade de Software na Stefanini 🐞💼
 
+
 <div> 
+ ![GitHub followers](https://img.shields.io/github/followers/marcosjsantos?style=social)
  <a href="https://www.linkedin.com/in/marcos-jos%C3%A9-borges-dos-santos-6a7b4a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="marcosjsantos#9748" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://t.me/marcosjbsantos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -42,7 +43,6 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 
 <p>
   <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
-  <img src=https://img.shields.io/badge/-Playwright%20-%23525252.svg?style=flat&logo=Playwright&logoColor=green&>
   <img src=https://img.shields.io/badge/-Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
   <img src=https://img.shields.io/badge/-K6%20-%23525252.svg?style=flat&logo=k6&logoColor=purple&>
   <img src=https://img.shields.io/badge/-Jmeter%20-%23525252.svg?style=flat&logo=jmeter&logoColor=red&>
