@@ -66,3 +66,5 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 - Semana do Teste Mobile - Iterasys
 - 1ª Temporada do QA Week 2022
 - 2ª Temporada do QA Week 2022
+
+![Snake animation](https://github.com/seu-usuário-aqui/marcosjsantos/blob/output/github-contribution-grid-snake.svg)
