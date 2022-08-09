@@ -28,6 +28,8 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 <p>
   <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
   <img src=https://img.shields.io/badge/-Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
+  <img src=https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
+  <img src=https://img.shields.io/badge/-Cucumber%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
   <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
 
@@ -51,27 +53,13 @@ Analista de Qualidade de Software na Stefanini 🐞💼
   
 📝 Alguns Cursos, Imersões e Eventos:
 
-- OKR: Metodologia e Aplicação (COMPLETO) - Udemy
-- Testes de aplicações modernas com Cypress - Udemy
-- Automação de Testes com Robot Framework - Básico - Udemy
-- JMeter - Testes de performance - Udemy
-- Os primeiros passos com o K6 - Performance test - Udemy
+- QA Full-Stack - QAninja
+- Continuous Testing com Jenkins e Ruby - QAninja
+- Ruby. Desbloqueie o medo de Codar - QAninja
+- Formação DevTester com Cypress e Vue.js - QAninja
+- Detonando no Cucumber, Capybara e RSpec - QAninja
 - Automações de Testes em Cypress - QA Ninja
-- Automação de Testes com Sikuli - Udemy
-- Curso Teste de Software: Faculdades Esucri – Criciúma
-- Curso de Informática: Power Point, Word, Excel, Internet- Criciúma
-- Curso Banco de dados: Oracle 11g - Faculdades Energia- Criciúma
-- Curso Programação: Java I - Faculdades Energia – Criciúma
-- Curso Oratória: Faculdades Esucri - Criciúma
-- Curso Programação: Powerbuilder - SATC – Criciúma
-- Curso Atendimento: Atendimento On-line – SEBRAE - Criciúma
-- Curso Assistente Administrativo: On-line – Prime Cursos
+- Curso de Informática: Power Point, Word, Excel, Internet
 - Semana do Teste Mobile - Iterasys
 - 1ª Temporada do QA Week 2022
 - 2ª Temporada do QA Week 2022
-- Imersão Dev - Alura
-- Startup Weekend Criciúma 2022
-- The Developers Conference
-- Imersão Hello Bot(2)
-
-
