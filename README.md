@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marcosjsantos/marcosjsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,17 +26,17 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 </div>
 
 
-📜 Graduada em Sistemas de Informação com Pós Graduação em Engenharia de Software 
+📜 Graduado em Ciências da Computação
 
-⚡ Atualmente estou estudando K6 e Cypress
+⚡ Atualmente estou estudando:
+<p>
+<img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20> <br>
+<img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
+</p>
 
 
 ## 🏆 Certificações:
-<p>
-<img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20>
-<img src=https://img.shields.io/badge/-CTFLAT%20-%23525252.svg?style=flat>
-<img src=https://img.shields.io/badge/-CTALTAE%20-%23525252.svg?style=flat>
-</p>
+
 
 ## Cursos de automação de testes:
 
