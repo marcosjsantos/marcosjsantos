@@ -22,13 +22,13 @@ Analista de Qualidade de Software na Stefanini 🐞💼
  <a href="marcosjsantos#9748" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://t.me/jeespindolasilva" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcosjsantosmjs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 
 📜 Graduado em Ciências da Computação
 
-⚡ Atualmente estou estudando:
+## ⚡ Estudando:
 <p>
 <img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20> <br>
 <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&>
