@@ -61,7 +61,7 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 - Ruby. Desbloqueie o medo de Codar - <img src=https://app-static-club.hotmart.com/meteor/images/favicon.ico height="20" width="20" /> QAninja
 - Formação DevTester com Cypress e Vue.js - <img src=https://app-static-club.hotmart.com/meteor/images/favicon.ico height="20" width="20" /> QAninja
 - Detonando no Cucumber, Capybara e RSpec - <img src=https://app-static-club.hotmart.com/meteor/images/favicon.ico height="20" width="20" /> QAninja
-- Automações de Testes em Cypress - <img src=https://github.com/weareqacademy/cypress-discovery/blob/main/.github/logo-stiker.svg height="15" width="80"/>
+- Automações de Testes em Cypress - Cypress Discovery <img src=https://github.com/weareqacademy/cypress-discovery/blob/main/.github/logo-stiker.svg height="15" width="80"/>
 - Curso de Informática: Power Point, Word, Excel, Internet
 - Semana do Teste Mobile - Iterasys
 - 1ª Temporada do QA Week 2022
