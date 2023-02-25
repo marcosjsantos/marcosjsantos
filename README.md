@@ -16,7 +16,8 @@ Analista de Qualidade de Software na Stefanini 🐞💼
 ## ⚡ Estudando:
 <p>
 <img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20> <br>
-<img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&> <img src=https://github.com/weareqacademy/cypress-discovery/blob/main/.github/logo-stiker.svg height="20" width="80"/>
+<img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&> <img src=https://github.com/weareqacademy/cypress-discovery/blob/main/.github/logo-stiker.svg height="20" width="80"/> <br>
+ <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=red&> <img src=https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white
 </p>
 
 
